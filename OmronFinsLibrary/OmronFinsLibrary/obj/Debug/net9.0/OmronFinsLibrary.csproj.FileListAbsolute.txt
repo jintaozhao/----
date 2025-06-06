@@ -1,0 +1,11 @@
+D:\人工智能\OmronFinsLibrary\OmronFinsLibrary\obj\Debug\net9.0\OmronFinsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\人工智能\OmronFinsLibrary\OmronFinsLibrary\obj\Debug\net9.0\OmronFinsLibrary.AssemblyInfoInputs.cache
+D:\人工智能\OmronFinsLibrary\OmronFinsLibrary\obj\Debug\net9.0\OmronFinsLibrary.AssemblyInfo.cs
+D:\人工智能\OmronFinsLibrary\OmronFinsLibrary\obj\Debug\net9.0\OmronFinsLibrary.csproj.CoreCompileInputs.cache
+D:\人工智能\OmronFinsLibrary\OmronFinsLibrary\bin\Debug\net9.0\OmronFinsLibrary.deps.json
+D:\人工智能\OmronFinsLibrary\OmronFinsLibrary\bin\Debug\net9.0\OmronFinsLibrary.dll
+D:\人工智能\OmronFinsLibrary\OmronFinsLibrary\bin\Debug\net9.0\OmronFinsLibrary.pdb
+D:\人工智能\OmronFinsLibrary\OmronFinsLibrary\obj\Debug\net9.0\OmronFinsLibrary.dll
+D:\人工智能\OmronFinsLibrary\OmronFinsLibrary\obj\Debug\net9.0\refint\OmronFinsLibrary.dll
+D:\人工智能\OmronFinsLibrary\OmronFinsLibrary\obj\Debug\net9.0\OmronFinsLibrary.pdb
+D:\人工智能\OmronFinsLibrary\OmronFinsLibrary\obj\Debug\net9.0\ref\OmronFinsLibrary.dll
